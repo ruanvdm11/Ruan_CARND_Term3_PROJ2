@@ -1,5 +1,9 @@
 [//]: # (Image References)
-[image1]: https://raw.githubusercontent.com/ruanvdm11/Ruan_CARND_Term3_PROJ2/master/Test_Images/um_000000.png "Video1"
+[image1]: https://raw.githubusercontent.com/ruanvdm11/Ruan_CARND_Term3_PROJ2/master/Test_Images/um_000000.png "Test Result 1"
+[image2]: https://raw.githubusercontent.com/ruanvdm11/Ruan_CARND_Term3_PROJ2/master/Test_Images/um_000017.png "Test Result 2"
+[image3]: https://raw.githubusercontent.com/ruanvdm11/Ruan_CARND_Term3_PROJ2/master/Test_Images/um_000061.png "Test Result 3"
+[image4]: https://raw.githubusercontent.com/ruanvdm11/Ruan_CARND_Term3_PROJ2/master/Test_Images/um_000071.png "Test Result 4"
+[image5]: https://raw.githubusercontent.com/ruanvdm11/Ruan_CARND_Term3_PROJ2/master/Test_Images/um_000095.png "Test Result 5"
 
 # Udacity CARND Term 3 Project 2
 ## Semantic Segmentation
@@ -13,6 +17,11 @@ The data that was use to train is the ..........................
 
 ## Examples of Tested Images
 The following images show that the FCN has successfully detected the driveable portion of the road.
+![alt text][image1]
+![alt text][image2]
+![alt text][image3]
+![alt text][image4]
+![alt text][image5]
 
 Here is a video example of how the FCN detects the corrects section of road.
 
