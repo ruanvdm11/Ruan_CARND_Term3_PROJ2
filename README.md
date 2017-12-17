@@ -3,7 +3,7 @@
 [image2]: https://raw.githubusercontent.com/ruanvdm11/Ruan_CARND_Term3_PROJ2/master/Test_Images/um_000017.png "Test Result 2"
 [image3]: https://raw.githubusercontent.com/ruanvdm11/Ruan_CARND_Term3_PROJ2/master/Test_Images/um_000061.png "Test Result 3"
 [image4]: https://raw.githubusercontent.com/ruanvdm11/Ruan_CARND_Term3_PROJ2/master/Test_Images/um_000071.png "Test Result 4"
-[image5]: https://raw.githubusercontent.com/ruanvdm11/Ruan_CARND_Term3_PROJ2/master/Test_Images/um_000071.png "Test Result 5"
+[image5]: https://raw.githubusercontent.com/ruanvdm11/Ruan_CARND_Term3_PROJ2/master/Test_Images/umm_0000095.png "Test Result 5"
 
 # Udacity CARND Term 3 Project 2
 ## Semantic Segmentation
@@ -13,7 +13,7 @@ In this project it was necessary to create an FCN. FCNs are used to classify obj
 
 The FCN created is derived from.........................
 
-The data that was use to train is the ..........................
+The data that was use to train is the Kitti Road data set that has a classified dataset as follows. The first image shows an image taken from a camera. The second image shows the drivable portion of the road (pink).
 
 ## Examples of Tested Images
 The following images show that the FCN has successfully detected the driveable portion of the road.
