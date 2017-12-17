@@ -6,7 +6,7 @@
 [image5]: https://raw.githubusercontent.com/ruanvdm11/Ruan_CARND_Term3_PROJ2/master/Test_Images/umm_0000095.png "Test Result 5"
 [image6]: https://raw.githubusercontent.com/ruanvdm11/Ruan_CARND_Term3_PROJ2/master/Test_Images/Train_CAM.png "Train Data 1"
 [image7]: https://raw.githubusercontent.com/ruanvdm11/Ruan_CARND_Term3_PROJ2/master/Test_Images/Train_Class.png "Train Data 2"
-[image8]: https://raw.githubusercontent.com/ruanvdm11/Ruan_CARND_Term3_PROJ2/master/Test_Images/Video_Screenshot.png "Video"
+[image8]: https://raw.githubusercontent.com/ruanvdm11/Ruan_CARND_Term3_PROJ2/master/Test_Images/Video_Screenshot.PNG "Video"
 
 # Udacity CARND Term 3 Project 2
 ## Semantic Segmentation
