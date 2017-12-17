@@ -26,7 +26,7 @@ The following images show that the FCN has successfully detected the driveable p
 ![alt text][image4]
 ![alt text][image5]
 
-Here is a video example of how the FCN detects the corrects section of road.
+## Here is a video example of how the FCN detects the corrects section of road.
 
 [![alt text][image8]](https://youtu.be/dQpraiVl_ts)
 
