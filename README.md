@@ -12,3 +12,6 @@ The data that was use to train is the ..........................
 The following images show that the FCN has successfully detected the driveable portion of the road.
 
 Here is a video example of how the FCN detects the corrects section of road.
+
+
+https://youtu.be/dQpraiVl_ts
